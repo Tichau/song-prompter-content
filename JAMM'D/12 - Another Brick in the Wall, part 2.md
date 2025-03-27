@@ -29,21 +29,16 @@ Hey! Teacher! Leave us kids alone!
 All in all, you're just another brick in the wall
 All in all, you're just another brick in the wall
 
-[Guitar Solo#57]
+[Drums Solo#57]
+
+[Guitar Solo#77]
 
 [Outro#87]
-Wrong, do it again! (*Children playing*)
-Wrong, do it again!
-If you don't eat your meat, you can't have any pudding!
-(Wrong, do it again!)
-How can you have any pudding if you don't eat your meat?
-(Wrong, do it again!)
-You! Yes! You behind the bike sheds! Stand still, laddie!
-(If you don't eat your meat, you can't have any pudding!
-How can you have any pudding if you don't eat your meat?)
-(You! Yes! You behind the bike sheds! Stand still, laddie!)
-*Children playing*
-*Phone beeping sound*
+Hey! Teacher! Leave them kids alone!
+All in all, it's just another brick in the wall
+All in all, you're just another brick in the wall
+All in all, it's just another brick in the wall
+All in all, you're just another brick in the wall
 ```
 
 <!-- Verified -->
