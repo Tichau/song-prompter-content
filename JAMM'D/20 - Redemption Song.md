@@ -63,4 +63,6 @@ These songs of freedom
 Songs of freedom
 ```
 
+[pause guitar change]
+
 <!-- Verified -->

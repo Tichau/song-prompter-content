@@ -66,4 +66,6 @@ Oh, higher
 (Oh) Higher
 ```
 
+[pause guitar change]
+
 <!-- Verified -->

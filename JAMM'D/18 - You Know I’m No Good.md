@@ -62,3 +62,5 @@ Like I knew I would
 I told you I was trouble
 Yeah, you know that I'm no good
 ```
+
+[pause guitar change]

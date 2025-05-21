@@ -67,3 +67,5 @@ You don't have to put on the red light
 (Roxanne) Put on the red light
 (Roxanne) Put on the red light
 ```
+
+[announce end of first set]

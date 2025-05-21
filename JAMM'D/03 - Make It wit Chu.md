@@ -45,4 +45,6 @@ I wanna make it, (Again and again) I wanna make it wit chu
 (Again and again and again and again and again) I wanna make it
 ```
 
+[pause guitar change]
+
 <!-- Verified -->

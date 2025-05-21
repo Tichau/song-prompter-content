@@ -64,4 +64,6 @@ Si j'avais le compte en banque de Louise Attaque
 J'partirais en vacances au moins jusqu'à Pâques
 ```
 
+[announce end of second set]
+
 <!-- Verified -->
