@@ -49,4 +49,6 @@ Yeah yeah
 Oh yeah
 ```
 
+[pause guitar change]
+
 <!-- Verified -->
