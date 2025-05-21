@@ -5,6 +5,7 @@
 > bpm: 142
 > metre: 4/4
 > key: A#
+> transition: follow up
 
 ```text
 [Verse 1#5]
@@ -43,7 +44,5 @@ Be my, be my, be my little rock and roll queen
 Be my, be my, be my little rock and roll queen
 Be my, be my, be my little rock and roll queen
 ```
-
-[follow up]
 
 <!-- Verified -->

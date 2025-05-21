@@ -5,6 +5,7 @@
 > bpm: 142
 > metre: 4/4
 > key: A
+> transition: follow up
 
 ```text
 [Intro 1#4]
@@ -68,7 +69,5 @@ I know, I won't be leaving here (with you)
 I know, I won't be leaving here
 With you
 ```
-
-[follow up]
 
 <!-- Verified -->

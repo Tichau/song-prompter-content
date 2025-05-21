@@ -5,6 +5,7 @@
 > bpm: 81
 > metre: 4/4
 > key: E
+> transition: follow up
 
 ```text
 [Verse 1#9]
@@ -49,7 +50,5 @@ Way out in the water, see it swimmin'
 With your feet on the air and your head on the ground
 Try this trick and spin it, yeah
 ```
-
-[follow up]
 
 <!-- Verified -->

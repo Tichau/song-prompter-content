@@ -5,6 +5,7 @@
 > bpm: 95
 > metre: 4/4
 > key: G
+> transition: announce end of first set
 
 ```text
 [Verse 1#9]
@@ -59,7 +60,5 @@ What the hell am I doing here?
 I don't belong here
 I don't belong here
 ```
-
-[announce end of first set]
 
 <!-- Verified -->

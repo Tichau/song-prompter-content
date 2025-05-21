@@ -5,6 +5,7 @@
 > bpm: 103
 > metre: 4/4
 > key: A
+> transition: pause guitar change
 
 ```text
 [Verse 1]
@@ -62,5 +63,3 @@ Like I knew I would
 I told you I was trouble
 Yeah, you know that I'm no good
 ```
-
-[pause guitar change]

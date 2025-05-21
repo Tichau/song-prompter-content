@@ -5,6 +5,7 @@
 > bpm: 58
 > metre: 4/4
 > key: G
+> transition: pause guitar change
 
 ```text
 [Verse 1#5]
@@ -62,7 +63,5 @@ Redemption songs
 These songs of freedom
 Songs of freedom
 ```
-
-[pause guitar change]
 
 <!-- Verified -->

@@ -5,6 +5,7 @@
 > bpm: 130
 > metre: 4/4
 > key: G#
+> transition: pause guitar change
 
 ```text
 Woo-hoo
@@ -48,7 +49,5 @@ Yeah yeah
 Yeah yeah
 Oh yeah
 ```
-
-[pause guitar change]
 
 <!-- Verified -->

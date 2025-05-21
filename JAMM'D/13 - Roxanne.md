@@ -5,6 +5,7 @@
 > bpm: 134
 > metre: 4/4
 > key: C
+> transition: announce end of first set
 
 ```text
 [Instrumental Intro]
@@ -67,5 +68,3 @@ You don't have to put on the red light
 (Roxanne) Put on the red light
 (Roxanne) Put on the red light
 ```
-
-[announce end of first set]

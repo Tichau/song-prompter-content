@@ -5,6 +5,7 @@
 > bpm: 142
 > metre: 4/4
 > key: D
+> transition: curtain call
 
 ```text
 [Verse 1#25]
@@ -61,7 +62,5 @@ Dansent, dansent, dansent, dansent, dansent, dansent
 
 Dansent les ombres du monde
 ```
-
-[curtain call]
 
 <!-- Verified -->

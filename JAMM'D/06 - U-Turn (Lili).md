@@ -5,6 +5,7 @@
 > bpm: 75
 > metre: 4/4
 > key: C
+> transition: follow up
 
 ```text
 [Verse 1#0]
@@ -49,7 +50,5 @@ For every street of any scene
 Any place you've never been
 I'll be your guide
 ```
-
-[follow up]
 
 <!-- Verified -->

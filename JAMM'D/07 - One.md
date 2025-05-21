@@ -5,6 +5,7 @@
 > bpm: 90
 > metre: 4/4
 > key: C
+> transition: pause guitar change
 
 ```text
 [Verse 1#5]
@@ -65,7 +66,5 @@ Oh, higher
 (Ay, yeah, go) higher
 (Oh) Higher
 ```
-
-[pause guitar change]
 
 <!-- Verified -->

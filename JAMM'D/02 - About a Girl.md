@@ -5,6 +5,7 @@
 > bpm: 130
 > metre: 4/4
 > key: Bm
+> transition: follow up
 
 ```text
 [Verse 1#9]
@@ -51,7 +52,5 @@ I do
 I do
 I do
 ```
-
-[follow up]
 
 <!-- Verified -->

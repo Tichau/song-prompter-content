@@ -5,6 +5,7 @@
 > bpm: 91
 > metre: 4/4
 > key: Em
+> transition: pause guitar change
 
 ```text
 [Instrumental Intro]
@@ -44,7 +45,5 @@ I wanna make it, (Anytime, anywhere) I wanna make it wit chu
 I wanna make it, (Again and again) I wanna make it wit chu
 (Again and again and again and again and again) I wanna make it
 ```
-
-[pause guitar change]
 
 <!-- Verified -->

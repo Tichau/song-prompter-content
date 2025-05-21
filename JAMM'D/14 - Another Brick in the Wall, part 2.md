@@ -5,6 +5,7 @@
 > bpm: 105
 > metre: 4/4
 > key: C
+> transition: follow up
 
 ```text
 [Verse 1#1]
@@ -40,7 +41,5 @@ All in all, you're just another brick in the wall
 All in all, it's just another brick in the wall
 All in all, you're just another brick in the wall
 ```
-
-[follow up]
 
 <!-- Verified -->

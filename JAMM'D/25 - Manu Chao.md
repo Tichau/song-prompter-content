@@ -5,6 +5,7 @@
 > bpm: 141
 > metre: 4/4
 > key: E
+> transition: announce end of second set
 
 ```text
 [Verse 1#9]
@@ -63,7 +64,5 @@ J'partirais en vacances avec tous mes potos
 Si j'avais le compte en banque de Louise Attaque
 J'partirais en vacances au moins jusqu'à Pâques
 ```
-
-[announce end of second set]
 
 <!-- Verified -->

@@ -5,6 +5,7 @@
 > bpm: 137
 > metre: 4/4
 > key: G♯/A♭
+> transition: follow up
 
 ```text
 [Verse 1#5]
@@ -58,7 +59,5 @@ You Really Got Me
 You Really Got Me
 You Really Got Me
 ```
-
-[follow up]
 
 <!-- Verified -->

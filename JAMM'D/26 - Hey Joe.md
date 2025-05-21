@@ -5,6 +5,7 @@
 > bpm: 85
 > metre: 4/4
 > key: A
+> transition: follow up
 
 ```text
 [Verse 1#4]
@@ -61,7 +62,5 @@ Hey Joe, you better run on down
 Goodbye everybody, ow!
 Hey Joe, run on down
 ```
-
-[follow up]
 
 <!-- Verified -->
