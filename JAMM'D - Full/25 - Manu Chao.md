@@ -5,6 +5,7 @@
 > bpm: 141
 > metre: 4/4
 > key: E
+> transition: announce end of second set
 
 ```text
 [Verse 1#9]

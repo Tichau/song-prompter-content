@@ -5,6 +5,7 @@
 > bpm: 91
 > metre: 4/4
 > key: Em
+> transition: pause guitar change
 
 ```text
 [Instrumental Intro]

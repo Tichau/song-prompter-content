@@ -5,6 +5,7 @@
 > bpm: 134
 > metre: 4/4
 > key: C
+> transition: announce end of first set
 
 ```text
 [Instrumental Intro]

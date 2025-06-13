@@ -5,6 +5,7 @@
 > bpm: 85
 > metre: 4/4
 > key: A
+> transition: follow up
 
 ```text
 [Verse 1#4]

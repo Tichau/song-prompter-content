@@ -5,6 +5,7 @@
 > bpm: 142
 > metre: 4/4
 > key: D
+> transition: curtain call
 
 ```text
 [Verse 1#25]

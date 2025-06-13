@@ -5,6 +5,7 @@
 > bpm: 103
 > metre: 4/4
 > key: A
+> transition: pause guitar change
 
 ```text
 [Verse 1]
