@@ -5,6 +5,7 @@
 > bpm: 112
 > metre: 4/4
 > key: D
+> transition: follow up
 
 ```text
 [Intro]

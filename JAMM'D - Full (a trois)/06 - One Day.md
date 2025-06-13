@@ -5,6 +5,7 @@
 > bpm: 104
 > metre: 4/4
 > key: Eb (original) ou B
+> transition: follow up
 
 ```text
 [Verse 1#17]

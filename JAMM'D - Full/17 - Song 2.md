@@ -5,6 +5,7 @@
 > bpm: 130
 > metre: 4/4
 > key: G#
+> transition: follow up
 
 ```text
 Woo-hoo

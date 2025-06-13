@@ -5,6 +5,7 @@
 > bpm: 66
 > metre: 4/4
 > key: B
+> transition: follow up
 
 ```text
 Ah ah 
